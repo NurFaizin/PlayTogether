@@ -29,7 +29,7 @@ import org.teleal.cling.model.types.ErrorCode;
 import org.teleal.cling.support.model.container.Container;
 import org.teleal.cling.support.model.item.Item;
 
-import com.wireme.activity.ContentItem;
+import com.play.activity.ContentItem;
 
 import android.R.anim;
 import android.app.Activity;

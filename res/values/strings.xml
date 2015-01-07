@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">WireMe</string>
+    <string name="app_name">PlayTogether</string>
     
     <string name="search_lan">Search LAN</string>
     <string name="toggle_debug_logging">Toggle debug logging</string>
